@@ -42,7 +42,7 @@ The world of technology is constantly evolving, and I'm committed to staying up-
 
 I'm open to collaborating on exciting projects and discussing all things tech. Feel free to reach out!
 
-* linkedin.com/in/ye-pyae-aung-905807312
+* https://linkedin.com/in/ye-pyae-aung-905807312
 * https://yp-portfolio.vercel.app/
 * yepyae.webdev@gmail.com
 
